@@ -20,10 +20,6 @@ In this portfolio, you will find information about me, my projects, skills, expe
 - Sections to showcase my projects, skills, and experiences
 - Contact form to enable easy communication
 
-## Deployment
-
-The portfolio website has been deployed and is accessible through the following link: https://manisha-v.github.io/portfolio/.
-
 ## How to Use
 
 1. Clone the repository to your local machine using `git clone`.
