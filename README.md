@@ -1,6 +1,6 @@
 # Portfolio Repository
 
-Welcome to my portfolio repository! This project showcases my web development skills using HTML, CSS, and JavaScript. The portfolio website can be accessed [here]((https://pratikkumar.vercel.app/)).
+Welcome to my portfolio repository! This project showcases my web development skills using HTML, CSS, and JavaScript. The portfolio website can be accessed [here](https://pratikkumar.vercel.app/).
 
 ## About
 
