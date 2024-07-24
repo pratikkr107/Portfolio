@@ -1,6 +1,6 @@
 # Portfolio Repository
 
-Welcome to my portfolio repository! This project showcases my web development skills using HTML, CSS, and JavaScript. The portfolio website can be accessed [here](https://6697b010ca8d4ca9d14d8a2f--jolly-trifle-84d9cc.netlify.app/)).
+Welcome to my portfolio repository! This project showcases my web development skills using HTML, CSS, and JavaScript. The portfolio website can be accessed [here]((https://pratikkumar.vercel.app/)).
 
 ## About
 
