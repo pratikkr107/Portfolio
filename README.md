@@ -27,9 +27,9 @@ In this portfolio, you will find information about me, my projects, skills, expe
 
 ## Contact
 
-I'm always open to new opportunities and collaborations. Feel free to reach out to me through the contact form on the portfolio website or via email at [pratikkr1075@gmail.com](mailto:pratikkr107@gmailcom).
+I'm always open to new opportunities and collaborations. Feel free to reach out to me through the contact form on the portfolio website or via email at [pratikkr107@gmail.com](mailto:pratikkr107@gmailcom).
 
-Connect me on [LinkedIn]((https://www.linkedin.com/in/pratik-kumar-77b3331b6)) <img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" width="15"> 
+Connect me on [LinkedIn](https://www.linkedin.com/in/pratik-kumar-77b3331b6) <img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" width="15"> 
 
 ## Show your support
 
