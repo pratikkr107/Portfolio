@@ -1,6 +1,6 @@
 # Portfolio Repository
 
-Welcome to my portfolio repository! This project showcases my web development skills using HTML, CSS, and JavaScript. The portfolio website can be accessed [here](https://manisha-v.github.io/portfolio/).
+Welcome to my portfolio repository! This project showcases my web development skills using HTML, CSS, and JavaScript. The portfolio website can be accessed [here](https://6697b010ca8d4ca9d14d8a2f--jolly-trifle-84d9cc.netlify.app/)).
 
 ## About
 
@@ -9,7 +9,7 @@ In this portfolio, you will find information about me, my projects, skills, expe
 ## Technologies Used
 
 - HTML5
-- CSS3
+- CSS
 - JavaScript
 
 ## Features
@@ -31,9 +31,9 @@ The portfolio website has been deployed and is accessible through the following 
 
 ## Contact
 
-I'm always open to new opportunities and collaborations. Feel free to reach out to me through the contact form on the portfolio website or via email at [varshney.manisha05@gmail.com](mailto:varshney.manisha05@gmailcom).
+I'm always open to new opportunities and collaborations. Feel free to reach out to me through the contact form on the portfolio website or via email at [pratikkr1075@gmail.com](mailto:pratikkr107@gmailcom).
 
-Connect me on [LinkedIn](https://www.linkedin.com/in/manisha-varshney-914646191/) <img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" width="15"> 
+Connect me on [LinkedIn]((https://www.linkedin.com/in/pratik-kumar-77b3331b6)) <img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" width="15"> 
 
 ## Show your support
 
